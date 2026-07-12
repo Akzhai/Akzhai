@@ -36,12 +36,6 @@
   <img src="https://streak-stats.demolab.com?user=Akzhai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akzhai&theme=tokyo-night&hide_border=true" />
-</p>
-
 ## 🏆 Achievements
 
 <p align="center">
